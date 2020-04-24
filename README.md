@@ -1,3 +1,3 @@
 ### Request Hash
 
-Firefox extension for generating the hash of a web request and subsequently deciding to enable/disable JavaScript depending on it.
+Firefox extension for generating the hash of a web request. Notifies the user when the known hash of a page changes.
